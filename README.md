@@ -7,3 +7,4 @@ This is a practical blog to dive into the programming world and expand my knowle
 - [Practical React](https://github.com/omar1Mayallo/Practical-React)
 - [Practical Next](https://github.com/omar1Mayallo/Practical-NextJs)
 - [Practical Programming](https://github.com/omar1Mayallo/Practical-Programming)
+- [Practical Database](https://github.com/omar1Mayallo/Practical-Database)
